@@ -1,6 +1,6 @@
 {
   "name": "2048variants",
   "tagline": "",
-  "body": "List of some 2048 variants:\r\n\r\nThe easy game, [10](https://orangefreeze.github.io/10/) 1+1=2 gameplay.\r\n\r\nMy newest game, [99](https://orangefreeze.github.io/99/) 11+11=22 gameplay.\r\n\r\nSpecial thanks to [Asher Vollmer](https://asherv.com/threes/) for creating Threes.\r\n\r\nSpawn a [64](ashervollmer.github.io/64/)\r\n",
+  "body": "List of some 2048 variants:\r\n\r\nThe easy game, [10](http://orangefreeze.github.io/10/) 1+1=2 gameplay.\r\n\r\nMy newest game, [99](http://orangefreeze.github.io/99/) 11+11=22 gameplay.\r\n\r\nSpecial thanks to [Asher Vollmer](http://asherv.com/threes/) for creating Threes.\r\n\r\nSpawn a [64](http://ashervollmer.github.io/64/)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
